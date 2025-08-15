@@ -1,0 +1,15 @@
+{
+    "version": "1.0",
+    "media": {
+        "filename": "ornek_kayit.wav",
+        "type": "audio"
+    },
+    "acquisition": {
+        "duration_sec": 10,
+        "sample_rate": 44100
+    },
+    "features": {
+        "enf_mean": 50.0,
+        "enf_std": 0.05
+    }
+}

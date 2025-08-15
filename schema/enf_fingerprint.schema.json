@@ -1,0 +1,11 @@
+{
+    "title": "ENF Fingerprint",
+    "type": "object",
+    "required": ["version", "media", "acquisition", "features"],
+    "properties": {
+        "version": {"type": "string"},
+        "media": {"type": "object"},
+        "acquisition": {"type": "object"},
+        "features": {"type": "object"}
+    }
+}
