@@ -1,0 +1,6 @@
+numpy
+soundfile
+librosa
+matplotlib
+moviepy
+imageio-ffmpeg
